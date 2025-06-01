@@ -1,0 +1,8 @@
+alpha_vantage
+requests
+openai
+pandas
+python-dotenv
+matplotlib
+seaborn
+scipy 
