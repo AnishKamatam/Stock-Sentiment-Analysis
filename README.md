@@ -56,4 +56,4 @@ This project analyzes the relationship between news sentiment and Apple (AAPL) s
 
 ---
 
-**Author:** [Your Name] 
+**Author:** Anish Kamatam
